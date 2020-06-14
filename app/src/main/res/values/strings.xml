@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MobileApp</string>
+    <string name="add_value_to_firebase">Add Value To FireBase</string>
+</resources>
